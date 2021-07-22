@@ -4,9 +4,7 @@ import lombok.*;
 
 import java.util.Date;
 
-@Setter
-@Getter
-@ToString
+@Data
 @NoArgsConstructor
 @AllArgsConstructor
 public class User {

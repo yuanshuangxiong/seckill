@@ -6,9 +6,7 @@ import lombok.*;
 import java.math.BigDecimal;
 import java.util.Date;
 
-@Setter
-@Getter
-@ToString
+@Data
 @NoArgsConstructor
 @AllArgsConstructor
 public class GoodsBo{
